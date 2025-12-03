@@ -30,6 +30,7 @@ From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
 
+![Alt text](../img/1.png)
 
  dsniff:
 
